@@ -1,0 +1,17 @@
+D:\lab3 chm\lab3 chm\obj\Debug\net8.0\lab3 chm.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab3 chm\lab3 chm\obj\Debug\net8.0\lab3 chm.AssemblyInfoInputs.cache
+D:\lab3 chm\lab3 chm\obj\Debug\net8.0\lab3 chm.AssemblyInfo.cs
+D:\lab3 chm\lab3 chm\obj\Debug\net8.0\lab3 chm.csproj.CoreCompileInputs.cache
+D:\lab3 chm\lab3 chm\bin\Debug\net8.0\lab3 chm.exe
+D:\lab3 chm\lab3 chm\bin\Debug\net8.0\lab3 chm.deps.json
+D:\lab3 chm\lab3 chm\bin\Debug\net8.0\lab3 chm.runtimeconfig.json
+D:\lab3 chm\lab3 chm\bin\Debug\net8.0\lab3 chm.dll
+D:\lab3 chm\lab3 chm\bin\Debug\net8.0\lab3 chm.pdb
+D:\lab3 chm\lab3 chm\obj\Debug\net8.0\lab3 chm.dll
+D:\lab3 chm\lab3 chm\obj\Debug\net8.0\refint\lab3 chm.dll
+D:\lab3 chm\lab3 chm\obj\Debug\net8.0\lab3 chm.pdb
+D:\lab3 chm\lab3 chm\obj\Debug\net8.0\lab3 chm.genruntimeconfig.cache
+D:\lab3 chm\lab3 chm\obj\Debug\net8.0\ref\lab3 chm.dll
+D:\lab3 chm\lab3 chm\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\lab3 chm\lab3 chm\obj\Debug\net8.0\lab3 chm.csproj.AssemblyReference.cache
+D:\lab3 chm\lab3 chm\obj\Debug\net8.0\lab3 chm.csproj.Up2Date
